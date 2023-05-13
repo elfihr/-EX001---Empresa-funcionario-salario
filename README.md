@@ -1,6 +1,7 @@
 # -EX001---Empresa-funcionario-salario
 
 Programa de adicionar funcionarios, matricula e salario:
+   Programa funciona atravez de uma lista, com algumas exceções.
 
 
    [1]Adicionar
